@@ -1,0 +1,36 @@
+.sloth-cooking {
+    width: 300px;
+    align-content: center;
+}
+
+div {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 30px;
+    color:blueviolet
+}
+
+h2 {
+    color: pink;
+}
+
+h3 {
+    color: red;
+}
+
+li {
+    color: orange;
+    font-weight: 600;
+}
+
+p {
+    color: green;
+    background-color: yellow;
+    font-size: 22px;
+}
+
